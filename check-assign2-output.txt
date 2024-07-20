@@ -1,0 +1,12 @@
+---Host/Student info----
+
+Running on Sat Jul 20 04:39:37 AM UTC 2024
+Run by zamir - () on host
+ Static hostname: 200560007
+      Machine ID: 8e509bd07aaf46ab9144b09111d38a1b
+Operating System: Ubuntu 24.04 LTS
+6e9af5e0d3d96cd852d0c52f257c7f1e  ./check-assign2-script.sh - 6e9af5e0d3d96cd852d0c52f257c7f1e  -
+------------------------
+
+---Start of Assignment2.sh Check------
+---Running makecontainers.sh----------
