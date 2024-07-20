@@ -1,0 +1,72 @@
+WARNING:root:Cannot call Open vSwitch: ovsdb-server.service is not running.
+dpkg-preconfigure: unable to re-open stdin: No such file or directory
+Host server1-mgmt not found in /home/zamir/.ssh/known_hosts
+Warning: Permanently added 'server1-mgmt' (ED25519) to the list of known hosts.
+grep: /etc/netplan/01-netcfg.yaml: No such file or directory
+
+** (generate:230): WARNING **: 04:41:09.766: Permissions for /etc/netplan/01-netcfg.yaml are too open. Netplan configuration should NOT be accessible by others.
+WARNING:root:Cannot call Open vSwitch: ovsdb-server.service is not running.
+
+** (process:228): WARNING **: 04:41:09.916: Permissions for /etc/netplan/01-netcfg.yaml are too open. Netplan configuration should NOT be accessible by others.
+
+** (process:228): WARNING **: 04:41:10.057: Permissions for /etc/netplan/01-netcfg.yaml are too open. Netplan configuration should NOT be accessible by others.
+
+** (process:228): WARNING **: 04:41:10.057: Permissions for /etc/netplan/01-netcfg.yaml are too open. Netplan configuration should NOT be accessible by others.
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/a/apache2/apache2-bin_2.4.52-1ubuntu4.11_amd64.deb  404  Not Found [IP: 185.125.190.83 80]
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/a/apache2/apache2-data_2.4.52-1ubuntu4.11_all.deb  404  Not Found [IP: 185.125.190.83 80]
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/a/apache2/apache2-utils_2.4.52-1ubuntu4.11_amd64.deb  404  Not Found [IP: 185.125.190.83 80]
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/a/apache2/apache2_2.4.52-1ubuntu4.11_amd64.deb  404  Not Found [IP: 185.125.190.83 80]
+E: Unable to fetch some archives, maybe run apt-get update or try with --fix-missing?
+debconf: unable to initialize frontend: Dialog
+debconf: (TERM is not set, so the dialog frontend is not usable.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC contains: /etc/perl /usr/local/lib/x86_64-linux-gnu/perl/5.34.0 /usr/local/share/perl/5.34.0 /usr/lib/x86_64-linux-gnu/perl5/5.34 /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl-base /usr/lib/x86_64-linux-gnu/perl/5.34 /usr/share/perl/5.34 /usr/local/lib/site_perl) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 7, <> line 20.)
+debconf: falling back to frontend: Teletype
+dpkg-preconfigure: unable to re-open stdin: 
+Failed to enable unit: Unit file apache2.service does not exist.
+Failed to start apache2.service: Unit apache2.service not found.
+Synchronizing state of squid.service with SysV service script with /lib/systemd/systemd-sysv-install.
+Executing: /lib/systemd/systemd-sysv-install enable squid
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+debconf: unable to initialize frontend: Dialog
+debconf: (Dialog frontend will not work on a dumb terminal, an emacs shell buffer, or without a controlling terminal.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (This frontend requires a controlling tty.)
+debconf: falling back to frontend: Teletype
+dpkg-preconfigure: unable to re-open stdin: 
+
+** (generate:2126): WARNING **: 04:41:30.560: Permissions for /etc/netplan/01-netcfg.yaml are too open. Netplan configuration should NOT be accessible by others.
+WARNING:root:Cannot call Open vSwitch: ovsdb-server.service is not running.
+
+** (process:2124): WARNING **: 04:41:30.708: Permissions for /etc/netplan/01-netcfg.yaml are too open. Netplan configuration should NOT be accessible by others.
+
+** (process:2124): WARNING **: 04:41:30.853: Permissions for /etc/netplan/01-netcfg.yaml are too open. Netplan configuration should NOT be accessible by others.
+
+** (process:2124): WARNING **: 04:41:30.853: Permissions for /etc/netplan/01-netcfg.yaml are too open. Netplan configuration should NOT be accessible by others.
+Unit apache2.service could not be found.
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/a/apache2/apache2-bin_2.4.52-1ubuntu4.11_amd64.deb  404  Not Found [IP: 185.125.190.83 80]
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/a/apache2/apache2-data_2.4.52-1ubuntu4.11_all.deb  404  Not Found [IP: 185.125.190.83 80]
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/a/apache2/apache2-utils_2.4.52-1ubuntu4.11_amd64.deb  404  Not Found [IP: 185.125.190.83 80]
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/a/apache2/apache2_2.4.52-1ubuntu4.11_amd64.deb  404  Not Found [IP: 185.125.190.83 80]
+E: Unable to fetch some archives, maybe run apt-get update or try with --fix-missing?
+Failed to enable unit: Unit file apache2.service does not exist.
+Failed to start apache2.service: Unit apache2.service not found.
+Synchronizing state of squid.service with SysV service script with /lib/systemd/systemd-sysv-install.
+Executing: /lib/systemd/systemd-sysv-install enable squid
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+** (generate:2792): WARNING **: 04:41:44.894: Permissions for /etc/netplan/01-netcfg.yaml are too open. Netplan configuration should NOT be accessible by others.
+WARNING:root:Cannot call Open vSwitch: ovsdb-server.service is not running.
+
+** (process:2790): WARNING **: 04:41:45.083: Permissions for /etc/netplan/01-netcfg.yaml are too open. Netplan configuration should NOT be accessible by others.
+
+** (process:2790): WARNING **: 04:41:45.252: Permissions for /etc/netplan/01-netcfg.yaml are too open. Netplan configuration should NOT be accessible by others.
+
+** (process:2790): WARNING **: 04:41:45.253: Permissions for /etc/netplan/01-netcfg.yaml are too open. Netplan configuration should NOT be accessible by others.
+Unit apache2.service could not be found.
